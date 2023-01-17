@@ -12,7 +12,7 @@ Screenshots as follows:
 
 ![Solution](./Assets/Images/Solution.jpg)
 
-[Password Generator Webpage]((https://jmcdlungren.github.io/Password-Generator)
+[Password Generator Webpage](https://jmcdlungren.github.io/Password-Generator/)
 
 [GitHub Repository Link](https://github.com/jmcdlungren/Password-Generator)
 
